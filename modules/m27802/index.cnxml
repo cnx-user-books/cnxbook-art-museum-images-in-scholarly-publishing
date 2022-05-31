@@ -1,0 +1,30 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Museum Licensing Fees: Practice and Rationale</title>
+  <metadata>
+  <md:content-id>m27802</md:content-id><md:title>Museum Licensing Fees: Practice and Rationale</md:title>
+  <md:abstract/>
+  <md:uuid>6caf6286-c97d-4cbd-8740-f90662016af3</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-516"><media id="buybutton" alt="Art Museum Images in Scholarly Publishing -- buy from     Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/image/amisp-buybutton.jpg">
+		  <param name="style" value="padding: 3px; margin-left: 5px;     border: solid;      border-width:1px; border-color:#002469; float: right;           cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://my.qoop.com/store/Rice-University-Press-3111075350609104/Art-Museum-Images-in-Scholarly-Publishing-by-Nancy-Allen-3605342040273/','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor =     'default';"/>
+</image>
+
+	  </media>
+</para><para id="id5484584">Museums hold their collections in trust for present and future generations, a fiduciary responsibility that helps shape their mission and inform their policies and practices. One such practice involves the licensing of images of objects in the collection. Museums have traditionally maintained that licensing helps ensure accurate and appropriate reproduction of works in their collection. They regularly charge external clients an asset fee, the cost of the physical photograph or digital image; and a licensing fee, the cost associated with permission to license the photograph or digital image for a particular use. The permission fee is based on a claim to the intellectual property rights associated with the photograph or image of the work of art.</para>
+    <section id="id1167642259280">
+      <title>Photographic Asset Fee</title>
+      <para id="id1167640506050">In the pre-digital days, there was a tangible expense associated with copying a color transparency or printing a black-and-white negative. Analog films and black-and-white prints were rented to the client, and, if they were returned at all, scratches frequently marred their delicate surfaces. Thus, the rationale for charging clients an asset fee was direct cost recovery for film that was more often than not damaged beyond reuse.</para>
+      <para id="id1167642521057">Some museums also seek to be reimbursed for <emphasis effect="bold"/>picture research necessary to identify the object(s) that would fill the order, and for handling and shipping the film. Today, however, external clients are frequently able to identify the specific image required by searching a museum’s online collections database, thereby obviating the need for picture research by the rights and licensing staff. The high-resolution digital file can easily be copied, thereby eliminating the time and money for printing black-and-white negatives or sending color transparency masters out for duplication. Depending on the number and size of the images, the order can be instantly “delivered” as an email attachment or by posting the digital files to an FTP server. As more existing transparencies are scanned and new photography created by direct digital capture, many of the actual costs of supplying images have thus been eliminated, leaving staff salaries to form the major expenditure in rights and licensing services.<footnote id="id5071098">Simon Tanner, “Reproduction charging models &amp; rights policy for digital images in American art museums. A Mellon Foundation study,” King’s Digital Consultancy Services, King’s College London, 2004), <link id="note1" url="http://www.kdcs.kcl.ac.uk/pubs/USMuseum_SimonTanner.pdf">http://www.kdcs.kcl.ac.uk/pubs/USMuseum_SimonTanner.pdf</link> (accessed October 12, 2008).</footnote></para>
+    </section>
+    <section id="id2698686">
+      <title>License Fee</title>
+      <para id="id1167642720610">The permission fees charged by museums to license images for a particular use are generally based on an implicit or explicit claim of copyright over the photographic reproduction, regardless of whether the underlying work is in the public domain or copyrighted by the artist or artist’s estate, and regardless of any claim of originality in the photographic work.<footnote id="id3081486">Sometimes, museums have also relied on limited access to works in their collections, and contracts regarding how that access will be provided, as the basis for fees. </footnote></para>
+    </section>
+  </content>
+</document>

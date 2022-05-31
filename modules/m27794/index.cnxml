@@ -1,0 +1,51 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Executive Summary</title>
+  <metadata>
+  <md:content-id>m27794</md:content-id><md:title>Executive Summary</md:title>
+  <md:abstract/>
+  <md:uuid>3d03f695-c588-4b49-83f1-2dd946fadd70</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-177"><media id="buybutton" alt="Art Museum Images in Scholarly Publishing -- buy from     Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/image/amisp-buybutton.jpg">
+		  <param name="style" value="padding: 3px; margin-left: 5px;     border: solid;      border-width:1px; border-color:#002469; float: right;           cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://my.qoop.com/store/Rice-University-Press-3111075350609104/Art-Museum-Images-in-Scholarly-Publishing-by-Nancy-Allen-3605342040273/','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor =     'default';"/>
+</image>
+
+	  </media>
+</para><para id="id1164212467442">During the past twenty years, technology has dramatically changed the way museums document and manage information about their collections internally, and provide access to object information and images externally. Art museum photography studios that have gone completely digital report significant increases in productivity. High-end digital photography now produces images of comparable or better quality than does analog photography. Improved color management routines are beginning to ensure that digital images can faithfully reproduce the original art object in print. The expansion of art history graduate programs and incorporation of art images into interdisciplinary studies have increased readership for scholarly publications that include images of art and architecture. </para>
+    <para id="id1164208864107">Yet scholars and publishers perceive a mounting crisis in art book publishing. Christopher Lyon, Executive Director of Prestel Publishing, explains:</para>
+    <para id="id1164208204018">
+      <quote id="id1164208204018_quote" display="block">Government figures for hardcover sales of illustrated books indicate that serious illustration-driven art books...amount to no more than one to two percent of annual U.S. trade book sales. Anecdotal evidence suggests that this small segment of the market is dead in the water…. This gloomy situation is ironic because we are living in what ought to be a golden age for the production and consumption of art books. Never has the potential quality of art printing been higher than it is today.... Unfortunately, as technical possibilities proliferate so too do permission regulations and fees.... Among the changes negatively affecting art book production since the 1980s, the most significant appear to be the sharp rise in picture costs and increasing restrictions on reproduction rights.<emphasis effect="italics"><footnote id="id1164217973097">Christopher Lyon, “The Art Book’s Last Stand?” <emphasis effect="italics">Art in America</emphasis> (September 2006), 48-51.</footnote></emphasis></quote>
+    </para>
+    <para id="id1164211665533">This paper explores some of the reasons art museums cite for charging licensing fees for scholarly publications and examines the validity of the following arguments:</para>
+    <list id="id1164208862343" list-type="bulleted">
+      <item><emphasis effect="bold">Loss of income</emphasis>: Museums face diminishing revenue and rising costs. Licensing images is viewed by many museums as one way to generate much-needed income. Research indicates, however, that many museums cite gross rather than net revenue, lacking the detailed analysis of the operational and staff costs of service provision.</item>
+    </list>
+    <list id="id1164209824888" list-type="bulleted">
+      <item><emphasis effect="bold">Costs of collections information management and digital imaging</emphasis>: Planning, implanting, and maintaining the technical infrastructure to create, deliver, and store digital images and manage collections online is a costly, ongoing expense. Some museums seek to underwrite a portion of these technology costs through rights and licensing income. Experience shows, however, that the investment in technology supports collaboration across the museum and results in better collections care and handling. Museums also find that providing access to images of their collections online aids educational outreach. Thus, automated collections management systems and digital imaging initiatives provide mission-critical benefits that many museums feel justify the investment in technology. </item>
+    </list>
+    
+    <list id="id9019031" list-type="bulleted">
+      <item><emphasis effect="bold">Concern about the security of high-resolution files: </emphasis>Rights and licensing staff have traditionally served as gatekeepers of museum images, trying to ensure that images of the collection are reproduced with a high degree of fidelity to the original object and include proper descriptive and credit-line information. Today, people easily obtain images by using their digital cameras while visiting the museum, by scanning images from books, and by downloading images from the web. Recognizing that these unauthorized images poorly represent their collections, some museums now make higher-resolution images available to the public for educational use and scholarly publishing.</item>
+    </list>
+    <list id="id1164207080326" list-type="bulleted">
+      <item><emphasis effect="bold">Copyright and public domain:</emphasis> Museums often claim copyright over the photographic copies of art objects that are in the public domain. The basis of this assertion is that photographing an art object is in itself a creative act and justifies the charge of permission fees. However, some legal opinion, supported by recent case law, suggests that, when the aim of the photographic surrogate is to accurately document the underlying work of art, the resulting photograph lacks sufficient originality to qualify for protection under U.S. copyright law.<footnote id="id1164215977231"><emphasis effect="italics">Meshwerks, Inc. v. Toyota Motor Sales U.S.A</emphasis>., <emphasis effect="italics">Inc.,</emphasis> No. 06-4222 (10th Cir., June 17, 2008), available at <link url="http://www.ca10.uscourts.gov/opinions/06/06-4222.pdf">http://www.ca10.uscourts.gov/opinions/06/06-4222.pdf</link>. <emphasis effect="italics">Bridgeman Art Library, Ltd. v. Corel Corp</emphasis>., 36 F. Supp.2d 191 (S.D.N.Y. 1999), available at <emphasis effect="italics"/><link url="http://www.law.cornell.edu/copyright/cases/36_FSupp2d_191.htm">http://www.law.cornell.edu/copyright/cases/36_FSupp2d_191.htm</link>; see also<emphasis effect="italics"> Bridgeman Art Library, Ltd. v. Corel Corp</emphasis>., 25 F. Supp.2d 421 (S.D.N.Y. 1998), available at <emphasis effect="italics"/><link url="http://www.law.harvard.edu/faculty/martin/art_law/bridgeman1.pdf">http://www.law.harvard.edu/faculty/martin/art_law/bridgeman1.pdf</link><emphasis effect="italics">.</emphasis></footnote></item>
+    </list>
+    <para id="id1164217993424">The paper also presents case studies of three museums that have begun to make high-resolution, fee-free images available for scholarly publication. The Metropolitan Museum of Art, Victoria &amp; Albert Museum, and Smithsonian Institution all had high-level administrative support for sharing images on the web and making high-resolution images available for scholarly publishing.<footnote id="id1164207178202">The British Museum has also launched a free image service. Information is available at <link url="http://www.britishmuseum.org/about_this_site/terms_of_use/free_image_service.aspx">http://www.britishmuseum.org/about_this_site/terms_of_use/free_image_service.aspx</link>.</footnote> They each determined that supporting scholarly publishing was a mission-driven imperative that outweighed the questionable proposition of net income generation through licensing; however, each museum has taken a different route to delivering images:</para>
+    <list id="id1164208864198" list-type="bulleted">
+      <item><emphasis effect="bold">The Metropolitan Museum of Art</emphasis> partnered with ARTstor, a nonprofit digital library serving an educational community that launched Images for Academic Publishing in 2007. </item>
+    </list>
+    <list id="id1164211666083" list-type="bulleted">
+      <item><emphasis effect="bold">The Victoria &amp; Albert Museum</emphasis> expanded the museum’s website and began delivering high-resolution images for scholarly publishing in 2007. </item>
+    </list>
+    <para id="id1164208864126"/>
+    <list id="id1164207160733" list-type="bulleted">
+      <item><emphasis effect="bold">The Smithsonian Institution</emphasis> began an experiment in June 2008 with the commercial photo-sharing site Flickr in its public collections area called The Commons. </item>
+    </list>
+    <para id="id9027576">Ultimately, the goal of this paper is to generate discussion within and among museums and explore the elimination of image fees for scholarly publication of works in their collection. </para>
+  </content>
+</document>

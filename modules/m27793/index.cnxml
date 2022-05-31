@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conclusion</title>
+  <metadata>
+  <md:content-id>m27793</md:content-id><md:title>Conclusion</md:title>
+  <md:abstract/>
+  <md:uuid>cb68aa1e-975a-41a0-95e6-b1f7bc755f4d</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-163"><media id="buybutton" alt="Art Museum Images in Scholarly Publishing -- buy from     Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/image/amisp-buybutton.jpg">
+		  <param name="style" value="padding: 3px; margin-left: 5px;     border: solid;      border-width:1px; border-color:#002469; float: right;           cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://my.qoop.com/store/Rice-University-Press-3111075350609104/Art-Museum-Images-in-Scholarly-Publishing-by-Nancy-Allen-3605342040273/','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor =     'default';"/>
+</image>
+
+	  </media>
+</para><para id="id6154235">Museums present many reasons for charging licensing fees for scholarly publication. In a pre-electronic age, servicing orders for photography was labor-intensive and time-consuming. Color transparencies were expensive to duplicate. Damaged or lost transparencies necessitated new photography. Descriptive information and credit lines had to be verified in multiple manual systems. Museums sought to recover these costs through licensing income.</para>
+    <para id="id2955733">Museums also used licensing to control use of images. They hoped to ensure that works in their collection would be reproduced with a high degree of color fidelity to the original, with accurate associated information, and in a manner that appropriately honored the artistic achievement of the underlying work. Their claim of copyright over the photographs of works in the public domain provided tight control of image use.</para>
+    <para id="id1165238561431">The advent of electronic information and digital images has created opportunities for more efficient management of information and images in museums. The web offers new ways to provide access to museum collections and deliver educational value to real and virtual visitors. The costs of implementing and maintaining carefully planned technology is repaid by the mission-enhancing benefits it can provide a museum. </para>
+    <para id="id4914037">Today, images can be delivered electronically, thereby eliminating reproduction and handling costs. Object information vetted by curators is increasingly centralized and readily available for multiple uses, including rights and licensing transactions. Museums no longer control access to images of works in their collections; images are captured by the cell phones and digital cameras of their visitors, scanned from books, and shared on Google. The right to claim copyright over photographs of two-dimensional works has been struck down in the United States’s Second Circuit court. Scholars and publishers are protesting that the fees museums charge to acquire images and the permission to reproduce them are causing a crisis in scholarly publishing.</para>
+    <para id="id1165240840801">In response to this changed landscape, a very few museums have taken the pioneering step of beginning to offer images for scholarly publication without charging asset or permission fees. At the time that the Victoria &amp; Albert Museum announced its decision to do so, V&amp;A Director Mark Jones explained, "We want to respond to the needs of the academic and education community by making collection images available with greater convenience and minimum cost. High charges have acted as a barrier to spreading knowledge, and we want to play a part in removing this.” </para>
+    <para id="id1165240413754">Perhaps the time is right for other museums to consider changing their licensing policies.</para>
+  </content>
+</document>

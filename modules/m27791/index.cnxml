@@ -1,0 +1,859 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Approaches to Distribution of Fee-Free Images:  Case Studies of Three Museums</title>
+  <metadata>
+  <md:content-id>m27791</md:content-id><md:title>Approaches to Distribution of Fee-Free Images:  Case Studies of Three Museums</md:title>
+  <md:abstract/>
+  <md:uuid>d190404e-2cea-43a4-b7dd-ab8c891589ee</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-287"><media id="buybutton" alt="Art Museum Images in Scholarly Publishing -- buy from     Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/image/amisp-buybutton.jpg">
+		  <param name="style" value="padding: 3px; margin-left: 5px;     border: solid;      border-width:1px; border-color:#002469; float: right;           cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://my.qoop.com/store/Rice-University-Press-3111075350609104/Art-Museum-Images-in-Scholarly-Publishing-by-Nancy-Allen-3605342040273/','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor =     'default';"/>
+</image>
+
+	  </media>
+</para><section id="id1171657595521">
+      <title>Metropolitan Museum of Art: Working in Collaboration with 
+ARTstor</title>
+      <para id="id1171667181520">[NOTE: This section is based on interviews with 
+the following staff members at the Metropolitan Museum of Art on July 14-15, 
+2008: Doralynn Pines, Associate Director for Administration; Barbara Bridgers, 
+General Manager for Imaging and Photography;  Andrew Gessner, Chief Librarian of 
+the Image Library; Peggy Hebard, Senior Financial Manager for Images and 
+Publications; Billy Kwan, Associate Museum Librarian in the Image Library; Shyam 
+Oberoi, Manager of Met Images; Julie Zeftel, Museum Librarian in the Image 
+Library.]</para>
+      <para id="id1171660897356">In March 2007, the Metropolitan Museum of Art 
+announced a “pioneering initiative to provide digital images to scholars at no 
+charge.”<footnote id="id1171658265349">Metropolitan Museum of Art, “Metropolitan 
+Museum and ARTstor Announce Pioneering Initiative to Provide Digital Images to 
+Scholars at No Charge,” press release, March 12, 2007, available at <link url="http://www.metmuseum.org/press_room/full_release.asp?prid=%7BA113E0AD-AA4E-  471B-8F04-736A21F1A70A%7D">http://www.metmuseum.org/press_room/full_release.asp?
+prid=%7BA113E0AD-AA4E-471B-8F04-736A21F1A70A%7D</link>.</footnote> What 
+background research, infrastructure enhancements, financial analysis, and 
+internal discussions led to this decision?</para>
+      <section id="id8674345">
+        <title>Collections Management</title>
+        <para id="id7105095">The Metropolitan Museum was one of the first major 
+museums to recognize and embrace the potential of electronic management of 
+collections information. Working with Gallery Systems, the commercial vendor of 
+The Museum System (TMS) software,<footnote id="id1171656817132">Gallery Systems: 
+<link url="http://www.gallerysystems.com/default.htm">http://www.gallerysystems.com/de
+fault.htm</link>.</footnote> the museum created a fully automated inventory of 
+objects in the textile collection that was launched simultaneously with the 1995 
+opening of the Antonio Ratti Textile Center. The records, many of which were 
+accompanied by images, provided the staff and public with virtual access to all 
+the textiles, including those rarely on view due to their fragility. With this 
+momentum, the remaining curatorial departments were brought online one by one as 
+separate TMS databases. While this aided management of the individual curatorial 
+collections, the goal of a museum-wide database was unfulfilled. Rather than 
+attempting to merge all the rich but non-standardized information from the 
+separate curatorial TMS databases, the Met ultimately created one additional 
+database and mapped into it only basic descriptive information from the sixteen 
+TMS databases. This centralized collections database represents the collections 
+information that the respective curatorial departments have approved for public 
+access. </para>
+      </section>
+      <section id="id1171655520088">
+        <title>Digital Imaging</title>
+        <section id="id1171657533315">
+          <title>Investment in Digital Technology</title>
+          <para id="id1171657533443">At the same time the museum was investing 
+in collections management, it was also developing its capacity for digital 
+imaging, thereby transforming the capture, management, and storage of object, 
+event, education, installation, construction, and renovation photography. For over twelve years the museum has employed digital imaging consultants to steer planning and equipment purchase and to train and support staff.<footnote id="id1171658148572">Center for Digital Imaging, Inc.: <link url="http://www.cdiny.com/">http://www.cdiny.com/</link>.</footnote> This 
+investment in outside expertise has helped alert the staff to industry trends 
+and developments that may have an impact on imaging operations. </para>
+          <para id="id1171658705054">Outfitting each of twelve photographers 
+with a digital studio requires a capital expenditure of $150,000–$165,000, but 
+museum staff members are convinced about the return on investment. Using a film 
+camera formerly took up to four days to photograph a three-dimensional object. 
+Today, using a digital camera, the same work can be shot in less than one 
+day.<footnote id="id5880872">Photography of a three-dimensional object is, in 
+itself, an art form. First, a schedule is established for moving the object to 
+the studio. Working with curatorial staff, a photographer plans what views, 
+artist signatures, and maker marks should be documented. Next, lighting 
+decisions are made with a critical eye to highlighting contours and details of 
+each view of the object. In a pre-digital time, instant-developing Polaroid film 
+was used for initial capture, and frequently that temporary photograph was 
+delivered to the curator for comment. The official photography began after 
+adjustments of angle and lighting were made. Each view was captured at three 
+different light settings and shutter speeds through a process called bracketing. 
+These films were sent out for overnight developing, during which time the object 
+could not be moved from the studio. The morning delivery from UPS was much 
+anticipated by the photographer so the previous day’s work could be evaluated 
+and the final photography begun. Most orders, internal or external, request only 
+one photographic format, but the labor involved in moving the object to the 
+studio and creating the set-up dictated the common practice of fully documenting 
+the object with three film formats: color transparency, black-and-white 
+negative, and 35mm slide. Each format required a different camera. Each view of 
+the object required these same steps. As a result, one three-dimensional object 
+could take up to four days to photograph. In the digital environment, after the 
+view and lighting are decided, the photographer captures the shot with one 
+digital camera. That image can be downloaded to a computer screen for viewing, 
+then reviewed immediately with curatorial staff. Derivatives of that image in 
+different resolutions or in black-and-white can all be created during a post-
+production process. With the advent of digital imaging, multiple views of a 
+three-dimensional sculpture can be captured and approved in two to three hours 
+rather than four days. In addition, the burden of labeling and housing fragile 
+color transparencies, black-and-white negatives, and slides is 
+eliminated.</footnote></para>
+        </section>
+        <section id="id1171658178627">
+          <title>Increased Photographic Documentation of the Collection</title>
+          <para id="id1171667408630">It is not uncommon for less than 20 percent 
+of any museum collection to be photographed, although museum professionals agree 
+that object photography is a critical means of documenting and publishing the 
+collection. The photographers at the Metropolitan Museum are now producing six 
+to ten photographs of three-dimensional objects per day and an even greater 
+number of photographs of two-dimensional works. This dramatic rise in efficiency 
+helps balance the cost of digital equipment and results in increased 
+photographic documentation of the museum’s treasures.</para>
+        </section>
+        <section id="id1171667592407">
+          <title>Reduced Production Costs</title>
+          <para id="id7844938">The price of film and processing for analog 
+photography continues to rise, but direct digital capture eliminates most of 
+those expenses. Furthermore, some pre-press costs associated with publication 
+are reduced or eliminated when working digitally.<footnote id="id1171657101648">In analog production, the printer created color separations 
+and printed proofs. These were then submitted to the editorial staff for review. 
+Frequently the calibration of the press resulted in an incorrect rendering of 
+the object’s actual colors, and new separations and proofs were required. This 
+outsourced activity was a costly and time-consuming component of any image-rich 
+publication. In the digital era, this pre-press work is done in-house on digital 
+cameras, computer screens, and printers that are carefully calibrated and then 
+frequently recalibrated. The raw digital file is meticulously edited and a new, 
+color-corrected file is saved for production purposes. That file is then sent to 
+the outside printer. The past practice of sending a guide print that accurately 
+presents the object’s colors is increasingly eliminated as color calibration 
+software has improved.</footnote></para>
+        </section>
+        <section id="id1171658384430">
+          <title>Retrospective Scanning</title>
+          <para id="id1171658359418">Simultaneous with the conversion of analog 
+to digital capture, staff initiated a retrospective scanning operation in the 
+image studio. Selection criteria prioritized photography of works being included 
+in the Collection Database and the highly acclaimed Timeline of the History of 
+Art portions of the museum’s website.<footnote id="id1171657102658">Metropolitan 
+Museum of Art, Works of Art Collection Database is available at <link url="http://www.metmuseum.org/works_of_art/collection_database/index.aspx?  dep=0&amp;vw=1">http://www.metmuseum.org/works_of_art/collection_database/index.
+aspx?dep=0&amp;vw=1</link>. Timeline of Art History is available at <link url="http://www.metmuseum.org/toah/splash.htm">http://www.metmuseum.org/toah/spl
+ash.htm</link>. </footnote> Photography for these works had the added advantage 
+of descriptive captions recently written and/or vetted by the curatorial staff. 
+Scanning was also undertaken on photography slated for publication in upcoming 
+collection and special exhibition catalogs. The most recently produced color 
+transparencies were favored over older photography in hopes of avoiding the need 
+for extensive digital touch-up of film marred by particulates and scratches. In 
+between color scanning projects, slow but steady progress has been made on 
+converting the one-hundred-year-old archive of black-and-white negatives to 
+digital format. The 35mm film is not being scanned at this time.</para>
+        </section>
+        <section id="id1171658040042">
+          <title>Benefits of the Imaging Initiative</title>
+          <para id="id1171656723382">The digital imaging initiative benefits the 
+museum in multiple ways. The number of digital images available for the website, 
+publications, and internal use has been dramatically increased. It ensures 
+access to images on film that celebrate the museum’s own history, a story 
+covering almost 140 years and told by the visual documentation of people, 
+events, gallery installations, special exhibitions, building construction and 
+renovation, and educational programs. Digital surrogates reduce the handling of 
+negatives and transparencies that have been moved to climate-controlled cold 
+storage, thus increasing the longevity of these unique film masters.</para>
+        </section>
+      </section>
+      <section id="id1171658036566">
+        <title>Met Images Project</title>
+        <para id="id1171659123594">Internal discussions about the Met Images 
+project began long in advance of the official launch in fall 2007. Planning 
+involved a team of staff members from Information Systems and Technology, the 
+Photograph Studio, the Image Library, and curatorial departments working 
+together to define and implement an enterprise-wide system for managing digital 
+images. Shyam Oberoi, formerly manager of the Met Images project, describes the 
+goals as twofold:</para>
+        <list id="id1171660464373" list-type="bulleted"><item>Support the 
+museum’s core mission to research, document and educate through an essential 
+investment in the museum’s assets and infrastructure.</item>
+        </list>
+        <list id="id1171657192276" list-type="bulleted">
+          <item>Strengthen the quality and quantity of available object images 
+and cataloging information so that images could be quickly located and processed 
+for distribution and licensing to both internal and external customers.<footnote id="id1171670561484">Oberoi, “Doing the DAM.” </footnote></item>
+        </list>
+        <para id="id1171658273468">Initially, a third goal had been identified—
+increasing revenue streams for licensing of museum images. However, museum 
+administration provided early feedback that this did not occur, urging that the 
+staff team focus less on revenue generation and more on the value of 
+preservation of, and access to, the digital assets being created throughout the 
+institution. </para>
+        <para id="id1171658243545">Once Met Images was approved, work began on 
+selecting the appropriate digital asset management system (DAMS). Interwoven’s 
+MediaBin<footnote id="id6905576">Interwoven MediaBin: <link url="http://www.interwoven.com/components/page.jsp?  topic=PRODUCT::MEDIABIN">http://www.interwoven.com/components/page.jsp?
+topic=PRODUCT::MEDIABIN</link>.</footnote> was ultimately chosen as the system 
+that could:</para>
+        
+        <list id="id1171670466488" list-type="bulleted">
+          <item>Support centralized management of digital media.</item>
+        </list>
+        <list id="id1171658810746" list-type="bulleted">
+          <item>Scale as a digital archive for object images and, ultimately, 
+the museum’s historic photography, images from archaeological expeditions, and 
+other rich media such as audio and video.</item>
+        </list>
+        <list id="id1171660629272" list-type="bulleted">
+          <item>Provide security consistent with role-based profiles already 
+implemented across the Metropolitan’s other IT applications.</item>
+        </list>
+        <list id="id1171658138962" list-type="bulleted">
+          <item>Generate image derivatives dynamically to reduce storage of 
+duplicate images of varying resolutions.</item>
+        </list>
+        <list id="id1171664136481" list-type="bulleted"><item>Integrate well 
+with existing museum applications (both TMS and MediaBin run on SQL 
+Servers).</item>
+        </list>
+        <para id="id7586640">Staff determined that MediaBin would be the 
+repository for images, including data about the images and rights information; 
+and object information, including artist name, nationality, life dates, object 
+basic description, title, date, materials, and dimensions.</para>
+        <para id="id1171667196097">Certain work-arounds to MediaBin’s data 
+structure were required to support the complex data relationships inherent in 
+TMS, such as repeatable fields and whole/part relationships. TMS object 
+information was ultimately exported into a data file that contains a non-
+relational, flattened record for each museum object. Nightly uploads from the 
+data file to MediaBin were scheduled to capture edits to existing records and 
+addition of new acquisitions. Loading the digital images into MediaBin was also 
+complex. The photography studio had approximately four thousand CDs and DVDs 
+containing two hundred thousand images. Accompanying spreadsheets provided the 
+link between the images and the objects, but the task was laborious because the 
+data lacked consistency. After the data and image files were loaded in MediaBin, 
+a script was run to establish the association between images and records from 
+the TMS extract data file. This simplified explanation belies the months of 
+planning, learning, data clean-up, and collaboration that led to the operational 
+launch of MediaBin at the Metropolitan Museum in fall 2007. </para>
+      </section>
+      <section id="id1171659950603">
+        <title>Commercial Image Licensing</title>
+        <para id="id1171661206738">As the staff at the Metropolitan Museum 
+planned the centralized storage and management of its growing collection of 
+digital images, they were also considering new opportunities for licensing 
+images. Exploring ways to derive more income from commercial licensing led staff 
+to examine the options offered by third-party image distributors. One successful 
+model was the photographic agency of the Réunion des musées nationaux<footnote id="id1171667447688">Réunion des musées nationaux: <link url="http://www.photo.rmn.fr/c/htm/home.aspx?  FR=T">http://www.photo.rmn.fr/c/htm/home.aspx?FR=T</link>.</footnote> (RMN) that 
+has an online image base of nearly 450,000 images of works of art from French 
+regional and national museums and other European museums available for both 
+educational and commercial licensing. Colleagues at the Victoria &amp; Albert 
+Museum also met with Met staff to talk about their growing image licensing 
+initiative. After considerable deliberation and study, the Metropolitan Museum 
+of Art decided to outsource commercial licensing, announcing an agreement with 
+Art Resource<footnote id="id7978115">Art Resource: <link url="http://www.artres.com/c/htm/Home.aspx">http://www.artres.com/c/htm/Home.asp
+x</link>.</footnote> in January 2007. Subsequently, additional distributors have 
+been added: Scholars Resource,<footnote id="id1171658275590">Scholars Resource: 
+<link url="http://www.scholarsresource.com/">
+http://www.scholarsresource.com/</link>.
+</footnote> Scala,<footnote id="id1171667346486">Scala:
+<link url="http://www.scalarchives.com/web/index.asp">http://www.scalarchives.com/web/
+index.asp</link>. (Note: Scala is a sub-license of the Metropolitan Museum’s 
+license with Scholars Resource.)</footnote> and RMN. The images and information 
+are now exported from MediaBin and sent several times per year to the 
+distributors.</para>
+      </section>
+      <section id="id1171667173469">
+        <title>Scholarly Image Licensing</title>
+        <para id="id1171657923712">Traditionally, museums charge less to supply 
+an image (and the permission to reproduce it) for scholarly publication than for 
+commercial publication or product development. The Metropolitan Museum had 
+different rates for commercial and non-commercial licensing, and the unofficial 
+policy was to supply fee-free images to Metropolitan curators writing for non-
+Metropolitan publications, to professional colleagues at other institutions, and 
+to former Met colleagues. Museum staff wanted to formalize this practice by 
+making fee-free images more widely available for scholarly publication.</para>
+        <para id="id1171655626940">Doralynn Pines, Associate Director for 
+Administration at the Metropolitan Museum, describes some of the factors 
+influencing this decision:</para>
+        <list id="id1171668538742" list-type="bulleted">
+          <item><emphasis effect="italics">Change in Internal Environment: 
+</emphasis>Previously, curators had access to the TMS records for their 
+collection only. With the advent of the DAMS, a new era of sharing was coming; 
+access to basic information about objects would be museum-wide. There was 
+growing acceptance of digital over analog photography and greater use of images 
+by staff throughout their daily work. </item>
+        </list>
+        <list id="id1171657789346" list-type="bulleted">
+          <item><emphasis effect="italics">Perceived Loss of Control over Museum 
+Content: </emphasis>The time of controlling museum information, text or images, 
+was over. Visitors were producing podcasts of museum visits and thousands of 
+images of Metropolitan Museum objects were already on Google Images. The 
+inferior quality of images in circulation troubled the Metropolitan 
+Museum.</item>
+        </list>
+        <list id="id1171660146836" list-type="bulleted">
+          <item><emphasis effect="italics">Implementation of Digital Asset 
+Management: </emphasis>Implementing MediaBin enabled the first-ever centralized 
+management of information and images about the museum’s collections. It also 
+opened new possibilities for the sharing of that information externally.</item>
+        </list>
+        <list id="id1171660832174" list-type="bulleted">
+          <item><emphasis effect="italics">Criticism of Scholarly Community: 
+</emphasis>Museums were being criticized by scholars and publishers for charging 
+fees for permissions to publish images when the underlying work was in the 
+public domain. However, the Metropolitan was already frequently waiving the fee 
+for supplying the image and granting permission for scholarly publication. The 
+time seemed right to change practice into official policy, get appropriate 
+credit for taking this bold step, and, by example, encourage other museums to 
+follow suit.</item>
+        </list>
+        <list id="id1171658544539" list-type="bulleted">
+          <item><emphasis effect="italics">Reinforcement of Museum Mission: 
+</emphasis>Most important, “it simply is the right thing to do,” stated 
+Pines.</item>
+        </list>
+      </section>
+      <section id="id1171658178443">
+        <title>Metropolitan Museum of Art and ARTstor Partnership</title>
+        <para id="id5904012">It is one thing to decide to provide fee-free 
+images for scholarly publication, and quite another to commit staff time, and 
+therefore dollars, to delivering those images. Clearly, the Met needed a partner 
+in this venture and turned to ARTstor.<footnote id="id1171668512725">ARTstor is 
+the non-profit organization that provides nearly one million images in the areas 
+of art, architecture, the humanities, and social sciences with a set of tools to 
+view, present, and manage images to users at over one thousand education, 
+museum, and research institutions. <link url="http://artstor.org/">http://artstor.org</link>.</footnote> The museum had 
+been one of the early contributors to the ARTstor Digital Library when its AMICO 
+records were released in 2005. It seemed natural for the museum to turn to 
+ARTstor to build a delivery mechanism for the Metropolitan’s publication-quality 
+images for use in scholarly publications. ARTstor readily embraced the idea and 
+the partnership was launched. An ongoing stream of high-resolution images would 
+thus be made available for use in the K-12 schools, colleges, universities, and 
+museums that license ARTstor, and images that could be used in publications were 
+made available for both users and non-users of the ARTstor Digital Library. 
+Scholars would be well served by the ability to obtain publication-quality 
+images, without fees, that could be downloaded immediately. </para>
+        <section id="id1171664023418">
+          <title>Images for Academic Publishing</title>
+          <para id="id1171661078413">Working closely with the staff at the 
+Metropolitan, ARTstor began to build Images for Academic Publishing (IAP) to 
+meet the museum’s specifications.<footnote id="id1171667590881">ARTstor Images 
+for Academic Publishing: <link url="http://www.artstor.org/what-is-artstor/w-  html/services-publishing.shtml">http://www.artstor.org/what-is-artstor/w-
+html/services-publishing.shtml</link>.</footnote> The project comprised the 
+preparation of image assets and corresponding metadata, inclusion of these 
+assets in the ARTstor Digital Library, and the development of a new protocol for 
+user download of publication-quality images. </para>
+        </section>
+        <section id="id1171655543414">
+          <title>Data Preparation</title>
+          <para id="id1171658423640">The Metropolitan Museum staff decided to 
+express information about their objects using CDWA-Lite,<footnote id="id7598949">CDWA-Lite: <link url="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite.h  tml">http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite.h
+tml</link>.</footnote> an XML data schema developed as a joint effort between 
+the J. Paul Getty Trust,<footnote id="id1171657289505">J. Paul Getty Trust: 
+<link url="http://www.getty.edu/">http://www.getty.edu/</link>.</footnote> RLG 
+Programs/OCLC,<footnote id="id1171659245145">OCLC/RLG: <link url="http://www.oclc.org/us/en/default.htm">http://www.oclc.org/us/en/default.ht
+m</link>.</footnote> and ARTstor for describing cultural works and their visual 
+surrogates. CDWA-Lite, based on a small subset of fields from the Categories for 
+the Description of Works of Art (CDWA), represents the minimal set of data 
+fields deemed necessary for describing cultural works and their visual 
+surrogates in preparation for resource discovery in online environments. CDWA-
+Lite is intentionally “light” to lower the barrier for cultural heritage 
+institutions wishing to share content. The CDWA-Lite schema is designed to be 
+used with the Open Archives Initiative Protocol for Metadata Harvesting (OAI-
+PMH)<footnote id="id1171658185224">Open Archives Initiative Protocol for 
+Metadata Harvesting:
+ <link url="http://www.openarchives.org/pmh/">http://www.openarchives.org/pmh/</link>.
+</footnote> that facilitates the sharing and updating of information between the 
+provider and the distributor. Once MediaBin was fully implemented, the 
+Metropolitan Museum staff and ARTstor began sharing the information formatted 
+according to CDWA-Lite and harvested in a server-to-server exchange.<footnote id="id1295963">As of December 2008, harvesting data from the Metropolitan Museum 
+to ARTstor was temporarily suspended due to errors in object content, problems 
+arising from group shot photography, and other data anomalies.</footnote> 
+Depending on number and file size, the high-resolution images can be retrieved 
+from an FTP server or sent by overnight mail on a high-density drive. </para>
+        </section>
+        <section id="id7486476">
+          <title>Functionality</title>
+          <para id="id1171658338395">ARTstor’s Images for Academic Publishing 
+was launched in March 2007 and functions as follows:</para>
+          <list id="id5490166" list-type="bulleted"><item>An IAP logo appears under the thumbnail images contributed by 
+the Metropolitan Museum to identify those images available for high-resolution 
+downloading.</item>
+          
+            <item>After clicking an “IAP” image, users receive a message 
+alerting them to a new “space” governed by the terms and conditions of The 
+Metropolitan Museum of Art, not ARTstor.</item>
+
+            <item>Terms and Conditions of Use: educational use and scholarly 
+publications are permitted; The Metropolitan Museum of Art decided that the 
+publication run must be two thousand or fewer; no more than ten images per 
+thirty-day period are allowed for any user;<footnote id="id1171658346080">This 
+limitation is under review by the Metropolitan Museum.</footnote> electronic use 
+is permitted on educational websites that do not accept advertisements and 
+commercial subscription websites with no more than two thousand 
+subscribers.<footnote id="id1171660658008">Metropolitan Museum IAP Terms and 
+Conditions for Use: <link url="http://www.artstor.org/what-is-artstor/w-  pdf/terms-conditions-iap.pdf">http://www.artstor.org/what-is-artstor/w-
+pdf/terms-conditions-iap.pdf</link>.</footnote></item>
+
+            <item>An electronic form appears requesting some information that the Metropolitan Museum requires and some that is requested but not required:
+<list id="fs-id1164773113179" list-type="bulleted">
+          
+            <item>Contact information: name, email address, institutional 
+affiliation, title/role (all required).</item>
+
+            <item>Publication information: author, title, periodical title, 
+intended date of publication, language of publication, regional distribution, 
+publication format (print, electronic, or video)(all requested, not required).<footnote id="id1171658342283">The Metropolitan Museum is reviewing what information 
+should be required on the ARTstor IAP form.</footnote></item>
+            <item>File size: users select size of image for downloading, either 
+5MB, 10MB, or 20MB (all required).</item></list></item>
+            <item>The image can then be immediately downloaded and saved.</item>
+          </list>
+        </section>
+      </section>
+      <section id="id1171668340922">
+        <title>Metropolitan Museum of Art Conclusion</title>
+        <para id="id1171658186153">Initially, IAP was only available to scholars 
+and curators at institutions that license ARTstor, but after several months it 
+was extended to any scholar who contacts either ARTstor or the Image Library at 
+the Metropolitan to obtain a password to access IAP images. As of September 
+2008, approximately 5,600 images had been contributed to IAP by the Metropolitan 
+Museum. Although this process is under review, the current plan results in 
+additional deliveries of one thousand to two thousand images every four months. 
+The Metropolitan’s Image Library staff monitor the ARTstor-generated usage 
+reports that contain the raw information about users and intended uses.<footnote id="eip-id8098622"> In Spring 2009 Bryn Mawr College contributed 3,900 images of Classical and Near Eastern archaeology to ARTstor to be available for scholarly publishing through Images for Academic Publishing:   <link url="http://www.artstor.org/what-is-artstor/w-html/col-bryn-mawr-melli.shtml">http://www.artstor.org/what-is-artstor/w-html/col-bryn-mawr-melli.shtml</link>.</footnote></para>
+        <para id="id1171669803970">During the first year of service, 645 images 
+were downloaded from IAP for scholarly publications. Staff members note that the 
+benefits of working with ARTstor include:</para>
+        <list id="id8683401" list-type="bulleted">
+          <item><emphasis effect="italics">Free Distribution of Museum 
+Images</emphasis>: There is no charge to museums for contributing images for 
+distribution in the ARTstor Digital Library and Images for Academic 
+Publishing.</item>
+        </list>
+        <list id="id1171657803979" list-type="bulleted">
+          <item><emphasis effect="italics">Staff Efficiencies: </emphasis>There 
+is a reduction in the time Metropolitan Museum staff members spend filling 
+orders for scholarly publication.</item>
+        </list>
+        <list id="id1171667128806" list-type="bulleted">
+          <item><emphasis effect="italics">Improved Service to Scholars: 
+</emphasis>Scholars can select and immediately download images free of 
+reproduction charges.</item>
+        </list>
+      </section>
+    </section>
+    <section id="id6108536">
+      <title>Victoria &amp; Albert Museum: Delivering Images through the 
+Museum’s Website</title>
+      <para id="id1171657596287">[NOTE: This section is based on a September 15, 
+2008, telephone interview with Ian Blatchford, Deputy Director, and email 
+exchanges with Alan Seal, Head of Records and Collections Services, Victoria 
+&amp; Albert Museum.]</para>
+      <section id="id5917859">
+        <title>Building the Infrastructure</title>
+        <para id="id1171659087264">The task of implementing electronic 
+recordkeeping at the Victoria &amp; Albert Museum (V&amp;A) for its collections, 
+numbering nearly 4.6 million objects, represents ongoing work that began more 
+than two decades ago. By the late 1990s, three systems were in place: the 
+Collections Information System (CIS) for inventory control, cataloging, and 
+accessioning museum objects; the Photo Cataloguing System for information about 
+analog and digital photographs of objects, books, events, gallery installations, 
+and staff; and the Image Arena, in which medium-resolution images were stored 
+and made accessible to the other two systems. All three resources were used to 
+extract the data and images that originally fed the collections area of the 
+V&amp;A website. By 2005, the museum began investigating digital asset 
+management systems (DAMS) to replace the Photo Cataloguing system, and 
+ultimately implemented their DAMS, called Vadar (V&amp;A Digital Asset 
+Repository), during 2006. A storage area network, also brought online in 2006, 
+greatly increased storage capacity and now allows the museum to access the high-
+resolution master images online rather than offline from an ever-expanding 
+collection of CD-ROMs. Since putting the masters onto their storage area 
+network, they no longer save copies on CD-ROM, even for archival purposes. A 
+back-up routine of the online files is in place both for recovery in the event 
+of disk failure and for business continuity. </para>
+      </section>
+      <section id="id1171661435508">
+        <title>Data Standards</title>
+        <para id="id1171658298370">As the technical infrastructure was growing, 
+staff were also considering the best ways to prepare and openly share data and 
+images on the museum’s website and possibly on other nonprofit educational 
+websites. They plan to support data harvesting giving aggregators a choice of 
+Dublin Core, CDWA-Lite or PNDS<footnote id="id1171660457336">PNDS DCAP stands 
+for the People’s Network Discovery Service Dublin Core Application Profile used 
+to describe resources being made available via the UK Museums, Libraries, 
+Archives Council’s (MLA) People's Discovery Network Service (PNDS). Content 
+providers to the PNDS will expose metadata about their content using this 
+application profile and the OAI-PMH: <link url="http://www.ukoln.ac.uk/metadata/pns/pndsdcap/">http://www.ukoln.ac.uk/metad
+ata/pns/pndsdcap/</link>.</footnote> file formats, all of which will be 
+generated on the fly from the database outside the firewall. The V&amp;A has 
+already implemented a Universal Resource Indicator (URI) link in the V&amp;A 
+records so the distributor’s site can lead the user back to the V&amp;A website 
+to view the fuller catalog information. This approach will allow the museum to 
+avoid the synchronization problems of preparing different record formats for 
+each distributor. The open-source routines could dramatically simplify 
+contributing both new records and edits to existing records. In addition, the 
+V&amp;A is on the international team of museums working in partnership with 
+OCLC/RLG Programs on the Museum Data Exchange Project, which is testing data 
+exchange processes using the Open Archives Initiative Protocol for Metadata 
+Harvesting (OAI-PMH).<footnote id="id1171655628393">Museum Data Exchange 
+Project, funded by The Andrew W. Mellon Foundation. See: <link url="http://www.oclc.org/programs/ourwork/collectivecoll/sharecoll/museumdata.ht  m">http://www.oclc.org/programs/ourwork/collectivecoll/sharecoll/museumdata.htm
+</link>.</footnote></para>
+      </section>
+      <section id="id1171668529290">
+        <title>Digital Imaging</title>
+        <para id="id7106256">New digital photography is being done in concert 
+with the ongoing program of capital improvements at the museum. The renovation 
+of the William and Judith Bollinger Jewellery Gallery, which opened in spring 
+2008, afforded the opportunity to fund photography of 3,500 objects. Likewise, 
+35,000 objects from the encyclopedic and global ceramics collection are being 
+photographed during the current redevelopment of the Ceramics Galleries that 
+will be opened in September 2009. This program of thorough photographic 
+documentation is a direct by-product of the refurbishment of galleries. In each 
+case, it anticipates the worldwide scholarly attention that is focused on the 
+museum as collections, long off-view, are returned to the public eye in freshly 
+interpreted, elegantly presented spaces. </para>
+        
+      </section>
+      <section id="id1171655674364">
+        <title>Impetus for Supplying Fee-free Images</title>
+        <para id="id1171655674371">In December 2006, the V&amp;A announced that 
+it would drop charges for the reproduction of images in scholarly books and 
+magazines, a decision the <emphasis effect="italics">Art Newspaper</emphasis> 
+heralded as “a move which could transform art publishing?”<footnote id="id1171655603304">Martin Bailey, “V&amp;A to scrap academic reproduction 
+fees,” <emphasis effect="italics">Art Newspaper</emphasis>, January 12, 2006, 
+175.</footnote> V&amp;A Deputy Director Ian Blatchford explained that, although 
+the government encourages museums to provide this public access to collections, 
+it is not a funded mandate. He described, instead, the internal factors leading 
+to this policy: </para>
+        <list id="id1171655603031" list-type="bulleted">
+          <item><emphasis effect="italics">Revenue: </emphasis>Many museums fail 
+to examine the rights and licensing operation to compare their licensing revenue 
+against the actual cost of service provision. The V&amp;A, however, has 
+undertaken such an internal review and arrived at a highly important finding: 
+<emphasis effect="bold">The revenue earned from licensing for scholarly 
+publication was insignificant compared to licensing for commercial 
+use</emphasis>.<emphasis effect="bold"/></item>
+        </list>
+        <list id="id1171655603059" list-type="bulleted">
+          <item><emphasis effect="italics">Branding</emphasis>: One factor was 
+the desire to create stronger V&amp;A branding. Many museums have great 
+collections, but the museum felt that if more people could easily access high-
+quality images of V&amp;A objects, there would be a greater understanding that 
+the museum is the world’s preeminent place for the decorative and applied arts. 
+</item>
+        </list>
+        <list id="id1171668562248" list-type="bulleted">
+          <item><emphasis effect="italics">Research</emphasis>: The curators of 
+the V&amp;A are actively engaged in scholarly writing. They have a deep 
+understanding of the impediments museums place on obtaining high-resolution 
+images for scholarly publishing and were, therefore, supportive of their own 
+institution’s lowering the barrier to acquiring images.</item>
+        </list>
+        <list id="id1171655606367" list-type="bulleted"><item><emphasis effect="italics">Image Access:</emphasis> Access to images has been transformed 
+for the museum’s actual and virtual visitors. People photograph in the V&amp;A 
+galleries, scan images from books, and “right-click” images from the V&amp;A 
+website. Ian Blatchford says, “Museums that are not loosening up on the 
+provision of images are in a fantasy world. The images are out there already; 
+why not ensure easy access to high-quality images and information?”</item>
+        </list>
+        <list id="id6509749" list-type="bulleted">
+          <item><emphasis effect="italics">Leadership:</emphasis> V&amp;A 
+Director Mark Jones’s personal passion for making collections available was the 
+starting point. He had stressed that there is a public benefit in museums 
+sharing the collections they hold in trust for the nation, and he feels strongly 
+that not making them easily available is simply unacceptable. Furthermore, the 
+Board of Trustees was completely behind the decision. Both Director and Board 
+understand that visits to the website, which continue to grow annually, provide 
+new ways for the public to experience the collections. They also hoped that 
+delivering free images for scholarship might encourage other museums to follow 
+their lead.</item>
+        </list>
+      </section>
+      <section id="id1171658244269">
+        <title>Delivery Mechanism</title>
+        <para id="id1171659853059">The V&amp;A decided to integrate the delivery 
+of high-resolution images for scholarly publishing into the “Collections” area 
+of its website. The “Collections” database includes thirty thousand works 
+represented by more than fifty thousand images and is expected to grow by about 
+twenty thousand images per year. In addition to simple and advanced searching 
+options, the user finds explanations on the website of three ways to obtain 
+images: </para>
+        <list id="id1171655606398" list-type="bulleted">
+          <item><emphasis effect="italics">Standard Web Image</emphasis>: Free, 
+web-sized images can be downloaded by right-clicking.</item>
+        </list>
+        <list id="id1171655606414" list-type="bulleted">
+          <item><emphasis effect="italics">High-Resolution Image</emphasis>: 
+Free, high-resolution images are available for “privileged usage,” defined as 
+academic/educational/scholarly publications; scholarly journals; student theses; 
+private study and research; critical editorial use; charity, society, and trust 
+newsletters. The user must agree to the Terms and Conditions of Use and register 
+his/her email address to set up an account. Up to thirty images can be requested 
+per order (this is a functional constraint only; users can place multiple 
+orders). The user is sent a separate email message with a link to the site where 
+the images are available for downloading. </item>
+        </list>
+        <list id="id1171658456418" list-type="bulleted"><item><emphasis effect="italics">Commercial Usage</emphasis>: <emphasis effect="bold"/>Commercial users are directed to V&amp;A Images to discuss 
+individual projects and obtain high-resolution images. </item>
+        </list>
+        <para id="id1171668267829">At the same time that the museum is foregoing 
+licensing income from scholarly publishing, it is very actively marketing 
+commercial use of images. These include filming at the V&amp;A, licensing short 
+educational films produced by the museum, photo-shoots, commissioned 
+photography, and a customized high-quality print service.</para>
+      </section>
+      <section id="id1171660875288">
+        <title>Victoria &amp; Albert Museum Conclusion</title>
+        <para id="id1171658419405">During the first year of the fee-free image 
+service there has been “no collapse in the finances of the Picture Library; 
+indeed, the results of providing images without charge for scholarly publishing 
+have been completely neutral with regard to the bottom line.” Only about twenty 
+people have downloaded as many as two hundred images during the year, which is 
+well within the terms and conditions of use established by the museum. </para>
+        <para id="id1171658535658">In the future, upgrades to the web 
+application will enable the museum to track the download frequency of individual 
+images and to study, over time, the way in which this growing body of images is 
+used. “We care about branding; if people see our content online and realize the 
+V&amp;A is a great place to visit, we win.”</para>
+      </section>
+    </section>
+    <section id="id1171658285075">
+      <title>Smithsonian Institution: Delivering Images through The Commons on 
+Flickr</title>
+      <para id="id1171661424342">[NOTE: This case study is based on a document 
+prepared by the Smithsonian Institution and sent to the author in October 2008, 
+and a telephone conference on October 9, 2008, with Anne Van Camp, Archivist, 
+Smithsonian Institution, and Katherine Spiess, Director, Central Digitization 
+Office.]</para>
+      <para id="id1171655606163">In June 2008, the Smithsonian 
+Institution<footnote id="id1171655606171">Smithsonian Institution: <link url="http://www.si.edu/">http://www.si.edu/</link>.</footnote> released nine 
+hundred public domain images in The Commons on Flickr.<footnote id="id1171655606198">The Commons on Flickr was launched on January 16, 2008, as 
+a pilot project with the Library of Congress. The announcement explained, “There 
+are two main aims to The Commons project, starting with the pilot: firstly, to 
+increase exposure to the amazing content currently held in the public 
+collections of civic institutions around the world, and secondly, to facilitate 
+the collection of general knowledge about these collections, with the hope that 
+this information can feed back into the catalogs, making them richer and easier 
+to search.” <link url="http://blog.flickr.net/en/2008/01/16/many-hands-make-  light-work/">http://blog.flickr.net/en/2008/01/16/many-hands-make-light-
+work/</link>. Information about the public collections currently available in 
+The Commons is available at: <link url="http://flickr.com/commons">http://flickr.com/commons</link>. </footnote> By 
+November 2008, the number had grown to over two thousand. The images vary in 
+file size, but the largest are suitable for publication. How and why did the 
+Smithsonian Institution decide to become a member of Flickr, a popular and 
+commercial photo-sharing website? Does The Commons provide a viable delivery 
+mechanism of images for scholarly publication?</para>
+      <section id="id1171667442201">
+        <title>Background </title>
+        <para id="id1171669538829">The Smithsonian Institution (SI) is a 
+federated institution comprised of nineteen museums, nine research centers, and 
+the National Zoo, all of which have photographic holdings in digital and analog 
+formats. The estimated thirteen million images in the Smithsonian photographic 
+collections have historic, artistic, and scientific import. They also document 
+the history of photographic processes and techniques. </para>
+        <para id="id8651342">One strategic goal of the SI is to unite the 
+collections virtually in a digital asset management system. A pan-institutional 
+assessment of photographic holdings is needed to establish collection priorities 
+and determine the resources needed to undertake a unified, large-scale 
+digitization, cataloging, and access program. In the absence of such an 
+assessment, the individual SI units have developed separate websites to present 
+whatever fraction of their photographic collections have been digitized and 
+cataloged in sufficient depth to support discovery and research.</para>
+        <para id="id1171660080524">Against this backdrop, the Smithsonian 
+Photography Initiative (SPI) was established in 2001.<footnote id="id1171662565277">Smithsonian Photographic Initiative: <link url="http://photography.si.edu/ProjectHistory.aspx">http://photography.si.edu/Pr
+ojectHistory.aspx</link>.</footnote> It serves as a central, web-based 
+programming unit designed to stimulate dialogue about the cultural impact of 
+photography with new and existing Smithsonian audiences. Organized as a series 
+of integrated programs, the website <emphasis effect="italics">Click! 
+photography changes everything</emphasis><footnote id="id1171658257573">The 
+Smithsonian Institution explains that “Click! photography changes everything” is 
+a collection of essays and stories by <link url="http://click.si.edu/Contributors.aspx">experts</link> who discuss how 
+photography shapes our culture and our lives. [It explores] how photography 
+changes <link url="http://click.si.edu/Theme.aspx?theme=1">Who We Are</link>, 
+<link url="http://click.si.edu/Theme.aspx?theme=5">What We Do</link>, <link url="http://click.si.edu/Theme.aspx?theme=3">What We See</link>, <link url="http://click.si.edu/Theme.aspx?theme=2">Where We Go</link>, <link url="http://click.si.edu/Theme.aspx?theme=4">What We Want</link> and <link url="http://click.si.edu/Theme.aspx?theme=6">What We Remember</link>.” <link url="http://click.si.edu/">http://click.si.edu/</link>. </footnote> invites the 
+public to consider ways in which photography enables people to see, experience, 
+and interact with the world. Although the Search Images feature of the website 
+presents a relatively small percentage of art, science, culture, and history 
+images available in each of the Smithsonian’s units, it does present the only 
+pan-institutional image cross-section. SPI does not provide sales or licensing 
+services; instead it redirects web visitors via links to the websites of the SI 
+units, which each manage their own images and content. There is no consistent 
+policy regarding licensing fees across the units of the Smithsonian Institution, 
+and some work with third-party licensing agencies such as Corbis and Art 
+Resource.</para>
+        <para id="id1171668755322">At the same time the Smithsonian Photography 
+Initiative was launched, Smithsonian Images<footnote id="id7631458">Smithsonian 
+Images: <link url="http://smithsonianimages.si.edu/siphoto/siphoto.portal?  _nfpb=true&amp;_pageLabel=content&amp;contentpath=about.html">http://smithsonian
+images.si.edu/siphoto/siphoto.portal?
+_nfpb=true&amp;_pageLabel=content&amp;contentpath=about.html</link>.</footnote> 
+was created as a pilot web program with the goals of using credit cards for e-
+commerce and increasing visibility and access to its online digital images. Fees 
+charged for non-commercial use were designated for recovery of distribution 
+costs rather than to generate profit for the Institution. From its inception, 
+Smithsonian Images has permitted free download of digital images at a non-
+publication resolution for educational, scholarly and personal use under the 
+terms of “fair use.” </para>
+        <para id="id1171658399357">Early in 2007, the Smithsonian Institution’s 
+Digitization Steering Committee issued a report with recommendations about the 
+resources and infrastructure needed to create, manage, provide access to, and 
+use the Institution’s digital assets to effectively meet the needs of real and 
+virtual visitors. In April 2007, the Smithsonian met with Library of Congress 
+staff to discuss technology infrastructure requirements to support digitization 
+and various procedural considerations, including intellectual property rights. 
+The Smithsonian Digital Media Use Committee was formed in July 2007 to create a 
+new pan-institutional policy reflecting current technologies and SI’s commitment 
+to providing broad access to digital assets in a manner consistent with its 
+legal and stewardship responsibilities. </para>
+      </section>
+      <section id="id5600254">
+        <title>Barriers to Making Images Available Free of Charge</title>
+        <para id="id1171667190557">Although the Smithsonian Institution seeks to 
+increase access for educational and research purposes, it cites the following 
+reasons for not making images available free of charge for scholarly 
+publishing:</para>
+        <list id="id1171660873733" list-type="bulleted">
+          <item><emphasis effect="italics">Cost of Collections Management and 
+Documentation</emphasis>: Tens of thousands of images, analog and digital, in 
+the separate SI collections need research to verify or improve their descriptive 
+information. In addition, there is no single digital asset management system 
+(DAMS) for storing high-resolution images and associated cataloging in one 
+location. The SI units believe that revenue from image sales is needed to recoup 
+some of the costs necessary to improve collections documentation and implement a 
+DAMS.</item>
+        </list>
+        <list id="id1171655606249" list-type="bulleted"><item><emphasis effect="italics">Cost of Rights Research</emphasis>: <emphasis effect="italics"/>Smithsonian staff members take their stewardship 
+responsibilities seriously and are meticulous in verifying that every image 
+released has “no known restrictions.” To do so, they must consult both manual 
+and automated collections documentation systems, a labor-intensive and therefore 
+costly undertaking, given the massive size of the SI photographic 
+collections.</item>
+        </list>
+      </section>
+      <section id="id1171661205000">
+        <title>Smithsonian Institution Joins The Commons on Flickr</title>
+        <para id="id1171662074975">In January 2008, the Library of Congress 
+announced a new pilot project launched with Flickr that was designed to:</para>
+        <para id="id1171656746712">
+          <quote id="id1171656746712_quote" display="block">help address at 
+least two major challenges: how to ensure better and better access to our 
+collections, and how to ensure that we have the best possible information about 
+those collections for the benefit of researchers and posterity…. 3,000 photos 
+from two of our most popular collections are being made available on our new 
+<link url="http://www.flickr.com/photos/library_of_congress/">Flickr 
+page</link>, to include only images for which no copyright restrictions are 
+known to exist…. We want people to tag, comment and make notes on the images, 
+just like any other Flickr photo, which will benefit not only the community but 
+also the collections themselves…. We’re also very excited that, as part of this 
+pilot, Flickr has created a new publication model for publicly held photographic 
+collections called <link url="http://www.flickr.com/commons">The Commons</link>. 
+Flickr hopes, as do we, that the project will eventually capture the imagination 
+and involvement of other public institutions, as well.<emphasis effect="italics"><footnote id="id1171661104102">Library of Congress Blog, 
+January 16, 2008. <link url="http://www.loc.gov/blog/?  p=233">http://www.loc.gov/blog/?p=233</link>.</footnote></emphasis></quote>
+        </para>
+        <para id="id6122301">Staff at the Smithsonian Institution were meeting 
+with Library of Congress staff about digital issues during 2007 and early 2008. 
+The early success of the LC/Flickr pilot helped convince Smithsonian units to 
+launch their own Flickr project.<footnote id="id1171670554690"><link url="http://public.resource.org/">Public.Resource.Org</link> (<link url="http://public.resource.org/">http://public.resource.org/</link>) is a 
+nonprofit organization dedicated to the creation of public works projects on the 
+Internet. It focuses on increasing the flow of information in both directions 
+between people and the U.S. government. On May 19, 2007, Public.Resource.Org 
+posted over six thousand images harvested from the Smithsonian Institution’s 
+Images website to the commercial site Flickr, expressing the hope that their 
+action would cause the Smithsonian Institution to broaden its image distribution 
+policies. In fact, the Smithsonian Institution was already working on ways to 
+provide better access to its rich photographic collections, as it demonstrated 
+in June 2008. </footnote> They formed a core team that drew its members from the 
+SI library, archives and museum communities, central programmatic units that 
+support public programs, and from the Office of the Chief Information Office. In 
+February 2008, the group issued a call to the Smithsonian community for digital 
+images to be used in the Flickr project with a goal of providing approximately 
+two thousand digital photographic images from a variety of collections 
+throughout the Institution.</para>
+        <para id="id1171657573284">In deciding to move forward with 
+participation in The Commons, the Smithsonian defined the following goals for 
+the project:</para>
+        <list id="id8661091" list-type="bulleted">
+          <item>Increase public knowledge of, and access to, the Smithsonian’s 
+digital collections, programs, expertise, and other resources.<list id="id1171658295432" list-type="bulleted"><item>Use photographic collections to 
+draw new visitors to the Smithsonian, those who might not otherwise come to SI 
+museums, libraries, and archives in pursuit of their 
+interests.</item></list></item>
+          <item>Develop a Smithsonian online community by reaching out to 
+audiences.<list id="id1712554" list-type="bulleted"><item>Explore the interests 
+of “digital natives” who use social networking sites in ways the SI has yet to 
+understand.</item></list></item>
+          <item>Improve public outreach by learning more about SI audiences 
+through social tagging, public comments, and the resulting social dialogue.<list id="id1171667585701" list-type="bulleted"><item>Gather information about the 
+interests of SI audiences and enhance the documentation and interpretation of 
+its collections using the knowledge, perspectives, and experiences of these 
+audiences.</item></list></item>
+        </list>
+        <para id="id1171669796574">On June 16, 2008, nine hundred images were 
+uploaded from the Smithsonian Institution to The Commons; by October 2008, the 
+number of SI images available in The Commons had doubled. All the images in The 
+Commons can be viewed and downloaded at five different resolutions; the original 
+image, contributed by the owning institution, determines the size of the largest 
+file.<footnote id="id1171656459478">The Smithsonian Institution registered for a 
+Flickr “Pro” account, which costs $24.95 per year and allows the upload of 
+images up to 20MB each. Flickr officially supports JPEGs, non-animated GIFs, and 
+PNGs. TIFFs can be uploaded as well, but they are automatically converted and 
+stored as JPEGs.</footnote> In the case of the Smithsonian, there is no pan-
+institutional policy about what size the “original” image should be; each SI 
+unit makes that determination independently. As a result, only a portion of the 
+SI images in The Commons are, at this time, of adequate size to download for 
+publication. Recognizing that Flickr is commercial, and therefore not a trusted 
+website in many educational environments, SI has added the same images to the 
+Smithsonian Photography Initiative website, which is educational, trusted, and 
+branded with the Smithsonian Institution imprimatur. Each SI image appearing on 
+a Flickr Commons page links back to the same image on the SPI website, <emphasis effect="italics">Click.</emphasis><footnote id="id1171655613211">See Search 
+Images section of Click. <link url="http://photography.si.edu/SearchImage.aspx">http://photography.si.edu/Searc
+hImage.aspx</link>.</footnote></para>
+      </section>
+      <section id="id1171655613235">
+        <title>Copyright and The Commons </title>
+        <para id="id1171655613242">The Smithsonian Institution researches images 
+contributed to The Commons, releasing those they believe have no known legal 
+restrictions. This includes copyright and other legal restrictions, such as 
+those required by the donor of the image or the underlying object. The images 
+are flagged with the rights statement, “No known copyright restrictions,” and 
+viewed on The Commons with two associated links. One link leads to the generic 
+Flickr rights page that reminds users to conduct “an independent analysis of 
+applicable law before proceeding with a particular new use.”<footnote id="id1171668572867">See usage page of The Commons, <link url="http://www.flickr.com/commons/usage/">http://www.flickr.com/commons/usage/
+</link>.</footnote> The other link takes the user to the explicit rights 
+statement for the image provided by the contributing institution. In the case of 
+the SI images, the link takes the user to the “Copyright: Terms and Conditions” 
+page of the Smithsonian Institution website to learn: </para>
+        <para id="id1171658365591"><quote id="id1171658365591_quote" display="block">Anyone wishing to use any of these files or images for 
+commercial use, publication, or any purpose other than fair use as defined by 
+law, must request and receive prior written permission from the Smithsonian 
+Institution. Permission for such use is granted on a case-by-case basis at the 
+sole discretion of Smithsonian's Office of Product Development and Licensing. A 
+usage fee may be assessed depending on the type and nature of the proposed 
+use.<emphasis effect="italics"><footnote id="id1171668308756">http://www.si.edu/copyright/.</footnote></emphasis></quote>
+        </para>
+        <para id="id1171669775159">At present, this leads to some confusion for 
+users, as the statement suggests that some of the SI content on The Commons may 
+be by protected by usage restrictions. SI is aware of this discrepancy and is 
+working to develop new, more accurate language. </para>
+      </section>
+      <section id="id1171658536539">
+        <title>Smithsonian Institution Conclusion</title>
+        <para id="id1171658283690">The Smithsonian Institution joined The 
+Commons on Flickr to make its content more widely accessible. After the first 
+four months, it found that Flickr definitely increased exposure of their images 
+to more individuals. “Portraits of Scientists,” a set of images of nineteenth- 
+and early twentieth-century scientists and inventors, has been on the 
+Smithsonian Libraries’ website since 2003. In the first three months the set was 
+on The Commons, the images received nearly as many visits as during the previous 
+five years on the Smithsonian site. SI is not currently using The Commons to 
+delivery fee-free, high-resolution images for scholarly publication, but may 
+consider doing so in the future.</para>
+        <para id="id1171658519378">The Commons is a space for public 
+institutions to share images of their collections. “Pro” membership in The 
+Commons permits museums to upload an unlimited number of images as large as twenty 
+megabytes in size. The Smithsonian Institution’s goal in providing images to The 
+Commons is to expand access to its photographic collections, not explicitly to 
+supply high-resolution images for scholarly publication. Other museums, however, 
+may find that The Commons provides a cost-effective delivery mechanism of fee-
+free images for scholarly publication. </para>
+      </section>
+    </section>
+  </content>
+</document>

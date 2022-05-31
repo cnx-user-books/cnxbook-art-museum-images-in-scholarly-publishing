@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Acknowledgments</title>
+  <metadata>
+  <md:content-id>m27787</md:content-id><md:title>Acknowledgments</md:title>
+  <md:abstract/>
+  <md:uuid>3915b071-6b57-44ec-a309-5ad55e7c8993</md:uuid>
+</metadata>
+
+<content>
+<para id="badge"><media id="buybutton" alt="Art Museum Images in Scholarly Publishing -- buy from     Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/image/amisp-buybutton.jpg">
+		  <param name="style" value="padding: 3px; margin-left: 5px;     border: solid;      border-width:1px; border-color:#002469; float: right;           cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://my.qoop.com/store/Rice-University-Press-3111075350609104/Art-Museum-Images-in-Scholarly-Publishing-by-Nancy-Allen-3605342040273/','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor =     'default';"/>
+</image>
+
+	  </media>
+</para>
+    <para id="id8850396">Special appreciation goes to Angelica Zander Rudenstine 
+and Donald Waters of the Andrew W. Mellon Foundation for their invaluable 
+guidance on this paper and their commitment to furthering scholarly publishing. 
+The three case studies could not have been prepared without the generous 
+assistance of the following colleagues: Metropolitan Museum of Art—Barbara 
+Bridgers, Andrew Gessner, Peggy Hebard, Douglas Hegley, Billy Kwan, Shyam 
+Oberoi, Doralynn Pines, and Julie Zeftel; ARTstor—James Shulman and Gretchen 
+Wagner; Victoria &amp; Albert Museum—Ian Blatchford and Alan Seal; Smithsonian 
+Institution—Katherine Spiess and Anne Van Camp. Additional colleagues who have 
+shared expertise, information, and/or review of the document include: Deborah 
+Gerhardt, Rachel Gerstein, Alison Gilchrest, Kenneth Hamma, David Mathews, 
+Susanne Pichler, Eve Sinaiko, Rebecca Tushnet, Günter Waibel. </para>
+  </content>
+</document>
