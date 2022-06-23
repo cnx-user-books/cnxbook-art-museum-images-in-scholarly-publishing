@@ -1,0 +1,61 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11532</md:content-id>
+  <md:title>Art Museum Images</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  <md:uuid>2f0f433c-5ca4-40c5-9e7d-c46c4492bdb7</md:uuid>
+<md:slug>art-museum-images</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m27794"/>
+        
+      
+    
+    
+      <col:module document="m27796"/>
+        
+      
+    
+    
+      <col:module document="m27802"/>
+        
+      
+    
+    
+      <col:module document="m27792"/>
+        
+      
+    
+    
+      <col:module document="m27795"/>
+        
+      
+    
+    
+      <col:module document="m27791"/>
+        
+      
+    
+    
+      <col:module document="m27793"/>
+        
+      
+    
+    
+      <col:module document="m27787"/>
+        
+      
+    
+  </col:content>
+</col:collection>
